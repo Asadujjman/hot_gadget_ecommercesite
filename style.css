@@ -14,5 +14,11 @@
 #asad{
     height: 100%;
     width: 100%;
-} ami eita te git hub er kono kichui kori nai heda ai nh bole push hy nh th knta oit  age thik kori oi tato ager ta panda commerce
-sb gula th dite hbe so oita ber koro
+}
+.categorie_box {
+    width: 150px;
+    box-shadow: 5px 5px 10px lightgrey;
+    padding: 15px 5px;
+    border-radius: 10px;
+    text-align: center;
+}
